@@ -7,4 +7,4 @@
 
 ## 딥러닝
 
-### [LSTM](https://github.com/JunHyun-DS/MyStudySpace/blob/master/Optimal.pdf)
+### [LSTM](https://github.com/JunHyun-DS/MyStudySpace/blob/master/LSTM.pdf)
