@@ -14,3 +14,5 @@
 ### [LSTM](https://github.com/JunHyun-DS/MyStudySpace/blob/master/LSTM.pdf)
 
 ## Anomaly Detection
+
+### [k-means data description](https://github.com/JunHyun-DS/MyStudySpace/blob/master/k-means%20data%20description.pdf)
